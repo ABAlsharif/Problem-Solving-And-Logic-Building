@@ -44,6 +44,36 @@
     <td>Nested Conditions, Structs/Enums</td>
     <td><a href="./Problem%205.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>06</td>
+    <td>Print Full Name</td>
+    <td>Structs, Conditional Logic, String Manipulation</td>
+    <td><a href="./Problem%206.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>07</td>
+    <td>Half of a Number</td>
+    <td>Explicit Casting (int to float), Standard I/O</td>
+    <td><a href="./Problem%207.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>08</td>
+    <td>Pass or Fail Mark</td>
+    <td>Enums, Control Flow (If-Else), Domain Mapping</td>
+    <td><a href="./Problem%208.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>Sum of 3 Numbers</td>
+    <td>Call by Reference (&), Arithmetic Operations</td>
+    <td><a href="./Problem%209.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Average of 3 Marks</td>
+    <td>Function Reusability, Float Division, Call by Reference</td>
+    <td><a href="./Problem%2010.cpp">View Code</a></td>
+  </tr>
 </table>
 ---
 
