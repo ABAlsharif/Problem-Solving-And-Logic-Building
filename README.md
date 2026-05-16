@@ -2,7 +2,7 @@
 
 <p>A repository dedicated to writing clean, efficient, and well-structured C++ solutions. For me, problem solving is not just about passing test cases—it is about refining logic and writing code that speaks for itself.</p>
 
-<p><b>Approach:</b> Each solution is strictly optimized for performance, clean code practices, and solid domain logic.</p>
+<p><b>Approach:</b> Each solution is strictly optimized for performance, clean code practices using Divide and Conquer, and solid domain logic.</p>
 ---
 
 <h2>📊 Solved Problems Index </h2>
