@@ -18,55 +18,55 @@
     <td>01</td>
     <td>Print Name</td>
     <td>Basic I/O, Functions</td>
-    <td><a href="./Problem%201.cpp">View Code</a></td>
+    <td><a href="./Problem%2001.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>02</td>
     <td>Read Name & Print It</td>
     <td>Standard Input, String Handling</td>
-    <td><a href="./Problem%202.cpp">View Code</a></td>
+    <td><a href="./Problem%2002.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>03</td>
     <td>Check Odd or Even</td>
     <td>Control Flow, Modulus Operator</td>
-    <td><a href="./Problem%203.cpp">View Code</a></td>
+    <td><a href="./Problem%2003.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>04</td>
     <td>Hire Driver (Case 1)</td>
     <td>Logical Operators, If-Else Conditions</td>
-    <td><a href="./Problem%204.cpp">View Code</a></td>
+    <td><a href="./Problem%2004.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>05</td>
     <td>Hire Driver (Case 2)</td>
     <td>Nested Conditions, Structs/Enums</td>
-    <td><a href="./Problem%205.cpp">View Code</a></td>
+    <td><a href="./Problem%2005.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>06</td>
     <td>Print Full Name</td>
     <td>Structs, Conditional Logic, String Manipulation</td>
-    <td><a href="./Problem%206.cpp">View Code</a></td>
+    <td><a href="./Problem%2006.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>07</td>
     <td>Half of a Number</td>
     <td>Explicit Casting (int to float), Standard I/O</td>
-    <td><a href="./Problem%207.cpp">View Code</a></td>
+    <td><a href="./Problem%2007.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>08</td>
     <td>Pass or Fail Mark</td>
     <td>Enums, Control Flow (If-Else), Domain Mapping</td>
-    <td><a href="./Problem%208.cpp">View Code</a></td>
+    <td><a href="./Problem%2008.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>09</td>
     <td>Sum of 3 Numbers</td>
     <td>Call by Reference (&), Arithmetic Operations</td>
-    <td><a href="./Problem%209.cpp">View Code</a></td>
+    <td><a href="./Problem%2009.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>10</td>
