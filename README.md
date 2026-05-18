@@ -2,7 +2,7 @@
 
 <p>A repository dedicated to writing clean, efficient, and well-structured C++ solutions. For me, problem solving is not just about passing test cases—it is about refining logic and writing code that speaks for itself.</p>
 
-<p><b>Approach:</b> Each solution is strictly optimized for performance, clean code practices using Divide and Conquer, and solid domain logic.</p>
+<p><b>Approach:</b> Each solution is strictly optimized for performance, clean code practices, and solid domain logic.</p>
 ---
 
 <h2>📊 Solved Problems Index </h2>
@@ -73,6 +73,36 @@
     <td>Average of 3 Marks</td>
     <td>Function Reusability, Float Division, Call by Reference</td>
     <td><a href="./Problem%2010.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Average Pass or Fail</td>
+    <td>Enums, Function Reusability, Conditional Logic</td>
+    <td><a href="./Problem%2011.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Max of 2 Numbers</td>
+    <td>Control Flow, Conditional Logic, Call by Reference</td>
+    <td><a href="./Problem%2012.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Max of 3 Numbers</td>
+    <td>Nested If-Else, Algorithmic Comparisons</td>
+    <td><a href="./Problem%2013.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Swap 2 Numbers</td>
+    <td>Call by Reference (&), Temporary Variables, Value Swapping</td>
+    <td><a href="./Problem%2014.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Rectangle Area</td>
+    <td>Arithmetic Logic, Float Operations, Call by Reference</td>
+    <td><a href="./Problem%2015.cpp">View Code</a></td>
   </tr>
 </table>
 ---
