@@ -104,6 +104,36 @@
     <td>Arithmetic Logic, Float Operations, Call by Reference</td>
     <td><a href="./Problem%2015.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>16</td>
+    <td>Rectangle Area By Diagonal</td>
+    <td>Math Functions (`sqrt`, `pow`), Formulated Logic, Call by Reference</td>
+    <td><a href="./Problem%2016.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>Triangle Area</td>
+    <td>Arithmetic Formulas, Float Computation, Call by Reference</td>
+    <td><a href="./Problem%2017.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>Circle Area</td>
+    <td>Constants (`const`), Math Power (`pow`), Geometry Logic</td>
+    <td><a href="./Problem%2018.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Circle Area By Diameter</td>
+    <td>Geometric Formulas, Precision Division, Math Operations</td>
+    <td><a href="./Problem%2019.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Circle Area Inscribed in a Square</td>
+    <td>Advanced Geometry Formulas, Pow Implementation, Constants</td>
+    <td><a href="./Problem%2020.cpp">View Code</a></td>
+  </tr>
 </table>
 ---
 
