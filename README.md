@@ -134,6 +134,36 @@
     <td>Advanced Geometry Formulas, Pow Implementation, Constants</td>
     <td><a href="./Problem%2020.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>21</td>
+    <td>Circle Area Along Circumference</td>
+    <td>Geometry Logic, Pow Function, Floating-Point Precision</td>
+    <td><a href="./Problem%2021.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>Circle Area Inscribed in an Isosceles Triangle</td>
+    <td>Advanced Geometric Equations, Constants, Math Computation</td>
+    <td><a href="./Problem%2022.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>Circle Area Arbitrary Triangle</td>
+    <td>Heron's Formula Implementation, Square Root Functions, Complex Math Logic</td>
+    <td><a href="./Problem%2023.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>Validate Age Range</td>
+    <td>Boolean Functions, Range Validation, Conditional Assertions</td>
+    <td><a href="./Problem%2024.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Validate Age Range (Loop)</td>
+    <td>Do-While Control Flow, Interactive User Input, Re-asking Logic</td>
+    <td><a href="./Problem%2025.cpp">View Code</a></td>
+  </tr>
 </table>
 ---
 
