@@ -178,7 +178,7 @@
   </tr>
   <tr>
     <td>28</td>
-    <td>Sum Odd Numbers từ 1 to N</td>
+    <td>Sum Odd Numbers from 1 to N</td>
     <td>Conditional Loops, Summation Accumulator, Modulus Arithmetic</td>
     <td><a href="./Problem%2028.cpp">View Code</a></td>
   </tr>
