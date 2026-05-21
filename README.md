@@ -172,7 +172,7 @@
   </tr>
   <tr>
     <td>27</td>
-    <td>Print Numbers từ N to 1</td>
+    <td>Print Numbers from N to 1</td>
     <td>Reverse Loops, Decrement Logic, Control Structures</td>
     <td><a href="./Problem%2027.cpp">View Code</a></td>
   </tr>
