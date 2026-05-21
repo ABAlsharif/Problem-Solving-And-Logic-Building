@@ -167,7 +167,7 @@
   <tr>
     <td>26</td>
     <td>Print Numbers from 1 to N</td>
-    <td>Loops (while, do-while, `for`), Iteration Logic, Counter Management</td>
+    <td>Loops (while, do-while, for), Iteration Logic, Counter Management</td>
     <td><a href="./Problem%2026.cpp">View Code</a></td>
   </tr>
   <tr>
