@@ -164,6 +164,36 @@
     <td>Do-While Control Flow, Interactive User Input, Re-asking Logic</td>
     <td><a href="./Problem%2025.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td>Print Numbers từ 1 to N</td>
+    <td>Loops (`while`, `do-while`, `for`), Iteration Logic, Counter Management</td>
+    <td><a href="./Problem%2026.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Print Numbers từ N to 1</td>
+    <td>Reverse Loops, Decrement Logic, Control Structures</td>
+    <td><a href="./Problem%2027.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>Sum Odd Numbers từ 1 to N</td>
+    <td>Conditional Loops, Summation Accumulator, Modulus Arithmetic</td>
+    <td><a href="./Problem%2028.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>Sum Even Numbers từ 1 to N</td>
+    <td>Even Predicate Logic, Iterative Sum, Control Flow Reusability</td>
+    <td><a href="./Problem%2029.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Factorial of N</td>
+    <td>Multiplicative Accumulators, Positive Iteration, Factorial Calculation</td>
+    <td><a href="./Problem%2030.cpp">View Code</a></td>
+  </tr>
 </table>
 ---
 
