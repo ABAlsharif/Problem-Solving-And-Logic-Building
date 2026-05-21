@@ -184,7 +184,7 @@
   </tr>
   <tr>
     <td>29</td>
-    <td>Sum Even Numbers từ 1 to N</td>
+    <td>Sum Even Numbers from 1 to N</td>
     <td>Even Predicate Logic, Iterative Sum, Control Flow Reusability</td>
     <td><a href="./Problem%2029.cpp">View Code</a></td>
   </tr>
