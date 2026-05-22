@@ -167,7 +167,7 @@
   <tr>
     <td>26</td>
     <td>Print Numbers from 1 to N</td>
-    <td>Loops (while, do-while, for), Iteration Logic, Counter Management</td>
+    <td>Loops (`while`, `do-while`, `for`), Iteration Logic, Counter Management</td>
     <td><a href="./Problem%2026.cpp">View Code</a></td>
   </tr>
   <tr>
@@ -193,6 +193,36 @@
     <td>Factorial of N</td>
     <td>Multiplicative Accumulators, Positive Iteration, Factorial Calculation</td>
     <td><a href="./Problem%2030.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>Power of 2, 3, 4</td>
+    <td>Arithmetic Multiplication, Sequential Power Output</td>
+    <td><a href="./Problem%2031.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>Power of M</td>
+    <td>For Loops, Exponentiation Logic, Base Case Handling (M=0)</td>
+    <td><a href="./Problem%2032.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>Grade Letter Mapping</td>
+    <td>Multi-branch If-Else, Input Validation, Conditional Control Flow</td>
+    <td><a href="./Problem%2033.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>Commission Calculator</td>
+    <td>Nested Conditional Logic, Percentage Mapping, Financial Math</td>
+    <td><a href="./Problem%2034.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>Piggy Bank Calculator</td>
+    <td>Struct Data Structures, Explicit Casting, Compound Arithmetic</td>
+    <td><a href="./Problem%2035.cpp">View Code</a></td>
   </tr>
 </table>
 ---
