@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-/*Pronlem 37: write a program read numbers from user and sum them , keep reading until the user enter -99 then print the sum
+/*Problem 37: write a program read numbers from user and sum them , keep reading until the user enter -99 then print the sum
 *
 * Note: The program ends if -99 is entered, and it's not included in the sum.
 */
