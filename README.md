@@ -224,6 +224,36 @@
     <td>Struct Data Structures, Explicit Casting, Compound Arithmetic</td>
     <td><a href="./Problem%2035.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>36</td>
+    <td>Simple Calculator</td>
+    <td>Enums (Char-based), Switch Case Control Flow, Standard Input/Output</td>
+    <td><a href="./Problem%2036.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>Sum Until -99</td>
+    <td>Do-While Control Flow, Sentinel Values, Loop Break Conditions</td>
+    <td><a href="./Problem%2037.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>Prime Number Checker</td>
+    <td>Loops Optimization, Rounding Functions, Custom Enums Tracking</td>
+    <td><a href="./Problem%2038.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>Cash Reminder Calculator</td>
+    <td>Function Overloading Concept, Operational Math, Arithmetic Logic</td>
+    <td><a href="./Problem%2039.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>Bill Service and Tax Fee</td>
+    <td>Compound Arithmetic Operators, Sequential Multiplication, Percentage Addition</td>
+    <td><a href="./Problem%2040.cpp">View Code</a></td>
+  </tr>
 </table>
 ---
 
