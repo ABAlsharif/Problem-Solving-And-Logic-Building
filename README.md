@@ -254,6 +254,36 @@
     <td>Compound Arithmetic Operators, Sequential Multiplication, Percentage Addition</td>
     <td><a href="./Problem%2040.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>41</td>
+    <td>Hours to Weeks and Days</td>
+    <td>Data Conversion, Floating-Point Precision Arithmetic, Sequential Divisions</td>
+    <td><a href="./Problem%2041.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>Task Duration in Seconds</td>
+    <td>Time Unit Aggregation, Constant Multipliers, Mathematical Formulations</td>
+    <td><a href="./Problem%2042.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>Seconds to Days, Hours, Minutes, and Seconds</td>
+    <td>Remainder Modulus Arithmetic (`%`), Hierarchical Unit Breakdown, Integer Division</td>
+    <td><a href="./Problem%2043.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>Day of Week Mapping</td>
+    <td>Switch-Case Statements, Range Input Validation, Conditional Mapping</td>
+    <td><a href="./Problem%2044.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>Month of Year Mapping</td>
+    <td>Custom Enums Scope, Loop Validation Filters, Multi-Branch Control Flow</td>
+    <td><a href="./Problem%2045.cpp">View Code</a></td>
+  </tr>
 </table>
 ---
 
