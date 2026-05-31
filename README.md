@@ -284,6 +284,36 @@
     <td>Custom Enums Scope, Loop Validation Filters, Multi-Branch Control Flow</td>
     <td><a href="./Problem%2045.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>46</td>
+    <td>Print Letters A to Z</td>
+    <td>ASCII Table Mapping, Explicit Data Type Casting (`char`), Standard Iteration</td>
+    <td><a href="./Problem%2046.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>Loan Total Months to Pay</td>
+    <td>Arithmetic Data Handling, Input Validation Loops, Functional Structure</td>
+    <td><a href="./Problem%2047.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>Loan Monthly Installment Amount</td>
+    <td>Mathematical Division, Precision Results, Structural Formulations</td>
+    <td><a href="./Problem%2048.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>ATM Login System (Infinite Tries)</td>
+    <td>Do-While Guard Loops, String Comparison Logic, Early Return Statements</td>
+    <td><a href="./Problem%2049.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>ATM Login System (3 Tries Limit)</td>
+    <td>Counter Management, Multi-Condition Loops, System Security Control Flow</td>
+    <td><a href="./Problem%2050.cpp">View Code</a></td>
+  </tr>
 </table>
 ---
 
