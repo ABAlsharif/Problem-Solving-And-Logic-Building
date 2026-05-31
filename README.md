@@ -287,7 +287,7 @@
   <tr>
     <td>46</td>
     <td>Print Letters A to Z</td>
-    <td>ASCII Table Mapping, Explicit Data Type Casting (`char`), Standard Iteration</td>
+    <td>ASCII Table Mapping, Explicit Data Type Casting (char), Standard Iteration</td>
     <td><a href="./Problem%2046.cpp">View Code</a></td>
   </tr>
   <tr>
