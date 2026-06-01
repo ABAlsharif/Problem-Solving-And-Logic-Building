@@ -107,7 +107,7 @@
   <tr>
     <td>16</td>
     <td>Rectangle Area By Diagonal</td>
-    <td>Math Functions (sqrt, `pow`), Formulated Logic, Call by Reference</td>
+    <td>Math Functions (sqrt, pow), Formulated Logic, Call by Reference</td>
     <td><a href="./Problem%2016.cpp">View Code</a></td>
   </tr>
   <tr>
