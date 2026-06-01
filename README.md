@@ -269,7 +269,7 @@
   <tr>
     <td>43</td>
     <td>Seconds to Days, Hours, Minutes, and Seconds</td>
-    <td>Remainder Modulus Arithmetic (`%`), Hierarchical Unit Breakdown, Integer Division</td>
+    <td>Remainder Modulus Arithmetic (%), Hierarchical Unit Breakdown, Integer Division</td>
     <td><a href="./Problem%2043.cpp">View Code</a></td>
   </tr>
   <tr>
