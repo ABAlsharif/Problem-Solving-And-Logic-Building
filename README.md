@@ -119,7 +119,7 @@
   <tr>
     <td>18</td>
     <td>Circle Area</td>
-    <td>Constants (const), Math Power (`pow`), Geometry Logic</td>
+    <td>Constants (const), Math Power (pow), Geometry Logic</td>
     <td><a href="./Problem%2018.cpp">View Code</a></td>
   </tr>
   <tr>
